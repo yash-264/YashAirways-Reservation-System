@@ -2,7 +2,7 @@
 
 A complete, production-ready backend system for an Airline Reservation platform built using **Spring Boot**, **MongoDB**, **JWT**, and deployed on **Railway**. It provides APIs for user registration, flight search, booking, ticket generation, email notifications, and scheduled ticket cleanup.
 
-> 🔗 **Live API Base URL**: [https://your-railway-url.up.railway.app](https://your-railway-url.up.railway.app)
+> 🔗 **Live API Base URL**: [https://yashairways-reservation-system-production.up.railway.app/check].
 
 ---
 
